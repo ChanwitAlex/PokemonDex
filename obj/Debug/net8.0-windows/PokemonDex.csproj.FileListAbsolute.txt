@@ -1,0 +1,17 @@
+D:\งาน\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.exe
+D:\งาน\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.deps.json
+D:\งาน\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.runtimeconfig.json
+D:\งาน\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.dll
+D:\งาน\PokemonDex\bin\Debug\net8.0-windows\PokemonDex.pdb
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Form1.resources
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.Resource1.resources
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.GenerateResource.cache
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.GeneratedMSBuildEditorConfig.editorconfig
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfoInputs.cache
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.AssemblyInfo.cs
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.csproj.CoreCompileInputs.cache
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.dll
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\refint\PokemonDex.dll
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.pdb
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\PokemonDex.genruntimeconfig.cache
+D:\งาน\PokemonDex\obj\Debug\net8.0-windows\ref\PokemonDex.dll
